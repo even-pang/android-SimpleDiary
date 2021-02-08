@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.SimpleDiary" parent="Theme.MaterialComponents.Light">
+    <style name="Theme.SimpleDiary" parent="Theme.MaterialComponents.Light.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/light_color_main</item>
         <item name="colorPrimaryVariant">@color/light_color_sub</item>

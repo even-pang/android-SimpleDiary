@@ -2,6 +2,7 @@
 <resources>
     <color name="light_color_main">#FFFFF0</color>
     <color name="light_color_sub">#E5E5D8</color>
+    <color name="navigation_clicked">#CDDC39</color>
 
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
